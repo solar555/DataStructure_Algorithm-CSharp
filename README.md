@@ -1,2 +1,2 @@
-# Data-structures-and-algorithms-C-
-Data structures and algorithms (C#)
+# 数据结构与算法（C#语言描述）
+数据结构与算法（C#语言描述）
